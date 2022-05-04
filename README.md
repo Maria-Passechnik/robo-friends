@@ -1,4 +1,6 @@
-# roboFriends - React Hooks App
+# roboFriends - Robot Search
+## Designed with CSS & Tachyons
+## External: RoboHash
 
 * Clone this repo
 
